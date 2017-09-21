@@ -45,7 +45,7 @@ def _expected_keys_and_values_of_listmethods_query_rec(
         ("requestAttachmentCount", 0),
         ("requestSoapSize", 1117),
         ("responseAttachmentCount", 0),
-        ("responseSoapSize", 2780),
+        ("responseSoapSize", 3684),
         ("securityServerInternalIp", security_server_address),
         ("securityServerType", security_server_type),
         ("serviceCode", "listMethods"),
