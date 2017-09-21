@@ -42,7 +42,7 @@ def _expected_keys_and_values_of_wsdl_query_rec(
         ("requestAttachmentCount", 0),
         ("requestSoapSize", 1057),
         ("responseAttachmentCount", 1),
-        ("responseMimeSize", 15800),
+        ("responseMimeSize", 15766),
         ("responseSoapSize", 1255),
         ("securityServerInternalIp", security_server_address),
         ("securityServerType", security_server_type),
